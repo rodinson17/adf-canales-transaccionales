@@ -1,0 +1,9 @@
+{
+	"name": "databricks-espingdatos-with-adf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c812955f-b696-49b5-add6-79ce0b5de7de",
+		"tenantId": "54dcfb71-49ea-4fbe-88a7-d23cabc411fb"
+	}
+}
